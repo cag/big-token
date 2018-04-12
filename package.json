@@ -19,5 +19,29 @@
     "lodash": "^4.17.5",
     "prettier": "^1.11.1",
     "truffle": "^4.1.5"
-  }
+  },
+  "name": "big-token",
+  "version": "2.0.0",
+  "description": "A Big Token for a Big Tournament.",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cag/big-token.git"
+  },
+  "keywords": [
+    "gnosis",
+    "prediction",
+    "market",
+    "tournament",
+    "ethereum",
+    "solidity",
+    "truffle"
+  ],
+  "author": "Alan Lu",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cag/big-token/issues"
+  },
+  "homepage": "https://github.com/cag/big-token#readme"
 }
