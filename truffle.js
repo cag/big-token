@@ -5,9 +5,6 @@ const config = {
   networks: {
     rinkeby: {
       network_id: 4
-    },
-    kovan: {
-      network_id: 42
     }
   }
 };

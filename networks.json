@@ -5,12 +5,6 @@
       "links": {},
       "address": "0xd3515609e3231d6c5b049a28d0d09d038b4cfaed",
       "transactionHash": "0xaa10a3d8ba2a08ae277eaadd5b876753ac118ede542ae89c25c882eda3766c53"
-    },
-    "42": {
-      "events": {},
-      "links": {},
-      "address": "0xd3515609e3231d6c5b049a28d0d09d038b4cfaed",
-      "transactionHash": "0xaa10a3d8ba2a08ae277eaadd5b876753ac118ede542ae89c25c882eda3766c53"
     }
   },
   "BigToken": {
@@ -19,22 +13,10 @@
       "links": {},
       "address": "0x0152b7ed5a169e0292525fb2bf67ef1274010c74",
       "transactionHash": "0x3f78c1aae7e5940590d903f6f32f588bb904f6973bf03d18c7e85ca2c1299693"
-    },
-    "42": {
-      "events": {},
-      "links": {},
-      "address": "0x0152b7ed5a169e0292525fb2bf67ef1274010c74",
-      "transactionHash": "0x3f78c1aae7e5940590d903f6f32f588bb904f6973bf03d18c7e85ca2c1299693"
     }
   },
   "Migrations": {
     "4": {
-      "events": {},
-      "links": {},
-      "address": "0xf0681a06da32b8276b0a7b685019056c2bcfbf13",
-      "transactionHash": "0x0cf2524f634278b11d0ce41f5c2e157492029c642d721af8343e76586eb4a06e"
-    },
-    "42": {
       "events": {},
       "links": {},
       "address": "0xf0681a06da32b8276b0a7b685019056c2bcfbf13",
