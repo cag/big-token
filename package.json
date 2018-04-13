@@ -18,7 +18,8 @@
     "eslint-plugin-prettier": "^2.6.0",
     "lodash": "^4.17.5",
     "prettier": "^1.11.1",
-    "truffle": "^4.1.5"
+    "truffle": "^4.1.5",
+    "truffle-hdwallet-provider": "0.0.3"
   },
   "name": "big-token",
   "version": "2.0.0",
