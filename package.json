@@ -24,7 +24,9 @@
   "version": "2.0.0",
   "description": "A Big Token for a Big Tournament.",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@gnosis.pm/olympia-token": "^1.3.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cag/big-token.git"
